@@ -1,0 +1,1 @@
+This project includes 3 parts: a home page for Rhone Running, a products page, and a frequently asked questions page. This is intended to briefly describe what the business is and what it offers, using HTML code to build out the basic site functionality.
